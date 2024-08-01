@@ -5,11 +5,17 @@ This project is a voice-automated billing system designed for a cafeteria. It al
 **Features**
 
 1.**Voice Input**: Users can place orders using voice commands.
+
 2.**Text-to-Speech**: The system provides spoken feedback to the user.
+
 3.**Database Integration**: Items and sales are recorded in a MySQL database.
+
 4.**Bill Generation**: Generates a PDF bill for the orders.
+
 5.**Daily Sales Calculation**: Calculates and displays daily sales.
+
 6.**CustomTkinter GUI**: A graphical user interface for user interaction.
+
 7.**Accessibility**: Integrates with NVDA screen reader.
 
 **Requirements**
