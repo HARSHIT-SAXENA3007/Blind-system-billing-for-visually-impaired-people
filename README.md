@@ -1,4 +1,3 @@
-# Blind-system-billing-for-visually-impaired-people
 # Cafeteria Voice-Automated Billing System
 
 This project is a voice-automated billing system designed for a cafeteria. It allows users to interact with the system through voice commands to order items, generate bills, and calculate daily sales. The system uses various Python libraries to handle speech recognition, text-to-speech, database operations, and generating PDF bills.
