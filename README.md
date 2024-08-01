@@ -66,9 +66,13 @@ This project is a voice-automated billing system designed for a cafeteria. It al
 **Usage**
 
 1.**Start Voice Input**: Press the "Start Voice Input" button or press the space bar.
+
 2.**Calculate Daily Sales**: Press the "Calculate Daily Sales" button or press the 'f' key.
+
 3.**Add Item**: Press the "Add Item" button to add new items to the database.
+
 4.**Generate Bill**: Press the "Generate Bill" button to generate a PDF bill for the current order.
+
 5.**Exit**: Press the "Exit" button or press the 'j' key to exit the application.
 
 **Notes**
