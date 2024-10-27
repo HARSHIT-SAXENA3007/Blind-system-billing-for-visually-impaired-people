@@ -35,7 +35,7 @@ This project is a voice-automated billing system designed for a cafeteria. It al
 
 2. **Install Python Libraries**:
     ```sh
-    pip install -r requirements.txt
+    pip install speechrecognition pyttsx3 mysql-connector-python customtkinter pandas reportlab openpyxl AppOpener psutil
     ```
 
 3. **Set Up MySQL Database**:
