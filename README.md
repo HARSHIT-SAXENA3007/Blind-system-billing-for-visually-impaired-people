@@ -30,7 +30,7 @@ This project is a voice-automated billing system designed for a cafeteria. It al
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/HARSHIT-SAXENA3007/Blind-system-billing-for-visually-imapaired-people.git
-    cd cafeteria-billing-system
+    cd Blind-system-billing-for-visually-impaired people
     ```
 
 2. **Install Python Libraries**:
