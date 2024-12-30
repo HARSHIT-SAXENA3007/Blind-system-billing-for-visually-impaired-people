@@ -60,7 +60,7 @@ This project is a voice-automated billing system designed for a cafeteria. It al
 
 4. **Run the Application**:
     ```sh
-    python main.py
+    python Final_Code.py
     ```
 
 **Usage**
