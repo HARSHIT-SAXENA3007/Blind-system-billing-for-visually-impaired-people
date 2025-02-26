@@ -1,3 +1,5 @@
+import speech_recognition as sr
+import pyttsx3
 def listen():
     with sr.Microphone() as source:
         status_label.configure(text="Listening...")
