@@ -1,4 +1,4 @@
-import pandas as pd
+
 import datetime
 import mysql.connector
 def calculate_daily_sales():
