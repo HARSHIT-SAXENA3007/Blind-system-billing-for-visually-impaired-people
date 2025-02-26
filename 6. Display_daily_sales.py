@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import datetime
+from datetime import datetime
 import pyttsx3
 import openpyxl
 def display_daily_sales():
