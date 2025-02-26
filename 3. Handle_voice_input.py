@@ -1,6 +1,7 @@
 import speech_recognition as sr
 import pyttsx3
 import os
+import mysql.connector
 def handle_voice_input():
     global order_items, total_order_price
     speak("The system is now active. Please say the item name and quantity to make a purchase, or say 'generate bill' to generate the bill.")
