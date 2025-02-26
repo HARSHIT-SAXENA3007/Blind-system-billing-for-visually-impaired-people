@@ -1,3 +1,6 @@
+import mysql.connector
+import speech_recognition as sr
+import pyttsx3
 def add_item_to_database():
     item_name = simpledialog.askstring("Add Item", "Enter the item name:")
     if item_name:
