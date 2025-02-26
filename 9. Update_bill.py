@@ -1,3 +1,4 @@
+import customtkinter as ctk
 def update_bill_preview(order_items, total_price):
     bill_preview.delete("1.0", "end")  # Clear the previous bill preview
     bill_preview.insert("end", "Bill Preview:\n\n")
